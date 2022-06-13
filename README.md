@@ -8,10 +8,10 @@ In this work, we show that increasing model size results in marginal gains on in
 
 ## Models
 
-[monoT5-small model](https://huggingface.co/castorini/monot5-small-msmarco-10k)
-[monoT5-base model](https://huggingface.co/castorini/monot5-base-msmarco-10k)
-[monoT5-3B model](https://huggingface.co/castorini/monot5-3b-msmarco-10k)
-[MiniLM](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L-6-v2)
+* [monoT5-small model](https://huggingface.co/castorini/monot5-small-msmarco-10k)
+* [monoT5-base model](https://huggingface.co/castorini/monot5-base-msmarco-10k)
+* [monoT5-3B model](https://huggingface.co/castorini/monot5-3b-msmarco-10k)
+* [MiniLM](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L-6-v2)
 
 ## How do I reproduce the results?
 
