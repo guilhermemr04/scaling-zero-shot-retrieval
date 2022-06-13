@@ -6,11 +6,23 @@ In this work, we show that increasing model size results in marginal gains on in
 
 ![Ilustration of our results](src/results.PNG)
 
+## Models
+
+[monoT5-small model](https://huggingface.co/castorini/monot5-small-msmarco-10k)
+[monoT5-base model](https://huggingface.co/castorini/monot5-base-msmarco-10k)
+[monoT5-3B model](https://huggingface.co/castorini/monot5-3b-msmarco-10k)
+[MiniLM](https://huggingface.co/cross-encoder/ms-marco-MiniLM-L-6-v2)
+
+## How do I reproduce the results?
+
+As our best model is a zero-shot one, we provide only the evaluation script.
+- [All public datasets, except Robust04 and CQADupstack](BEIR.ipynb) (Test set 2021)
+- [Robust04 and CQADupstack](CQADupstack_&_Robust04.ipynb) (Test set 2021)
+
+To reproduce monoT5-3B results at least 25GB of RAM and a Tesla P100 GPU are required.
 
 
-
-
-
+## How do I cite this work?
 
 ~~~ {.xml
  @article{Rosa_2022,
