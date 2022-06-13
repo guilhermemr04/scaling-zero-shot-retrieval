@@ -15,7 +15,6 @@ In this work, we show that increasing model size results in marginal gains on in
 
 ## How do I reproduce the results?
 
-As our best model is a zero-shot one, we provide only the evaluation script.
 - [All public datasets, except Robust04 and CQADupstack](BEIR.ipynb) 
 - [Robust04 and CQADupstack](CQADupstack_&_Robust04.ipynb) 
 
