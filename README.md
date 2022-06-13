@@ -13,7 +13,7 @@ In this work, we show that increasing model size results in marginal gains on in
 ~~~ {.xml
  @article{Rosa_2022,
     title={No Parameter Left Behind: How Distillation and Model Size Affect Zero-Shot Retrieval},
-    author={Rosa, Guilherme and Bonifacio, Luiz and Jeronymo, Vitor and Lotufo, Roberto and Nogueira, Rodrigo},
+    author={Rosa, Guilherme and Bonifacio, Luiz and Jeronymo, Vitor and Abonizio, Hugo and Fadaee, Marzieh and Lotufo, Roberto and Nogueira, Rodrigo},
     journal={https://arxiv.org/abs/2206.02873},
     year={2022}
 }
