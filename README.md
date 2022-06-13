@@ -16,8 +16,8 @@ In this work, we show that increasing model size results in marginal gains on in
 ## How do I reproduce the results?
 
 As our best model is a zero-shot one, we provide only the evaluation script.
-- [All public datasets, except Robust04 and CQADupstack](BEIR.ipynb) (Test set 2021)
-- [Robust04 and CQADupstack](CQADupstack_&_Robust04.ipynb) (Test set 2021)
+- [All public datasets, except Robust04 and CQADupstack](BEIR.ipynb) 
+- [Robust04 and CQADupstack](CQADupstack_&_Robust04.ipynb) 
 
 To reproduce monoT5-3B results at least 25GB of RAM and a Tesla P100 GPU are required.
 
