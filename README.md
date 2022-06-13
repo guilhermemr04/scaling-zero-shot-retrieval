@@ -4,7 +4,7 @@ This repository contains the code to reproduce the results presented in the pape
 
 In this work, we show that increasing model size results in marginal gains on in-domain test sets, but much larger gains in new domains never seen during fine-tuning. Furthermore, we show that rerankers largely outperform dense ones of similar size in several tasks. Our largest reranker reaches the state of the art in 12 of the 18 datasets of the Benchmark-IR (BEIR).
 
-![Ilustration of our result](src/results.PNG)
+![Ilustration of our results](src/results.PNG)
 
 
 
